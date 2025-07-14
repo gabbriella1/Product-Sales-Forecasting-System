@@ -22,6 +22,16 @@ To build a forecasting system that predicts daily sales quantities for individua
 
 ---
 
+## Sample Data
+
+Due to a Non-Disclosure Agreement (NDA) with the data provider:
+
+- Product codes (`random_codes`) have been anonymized as `"sampleOfProductCodes"`  
+- The dataset file path is set to `"sample_data.csv"`  
+- All product identifiers in plots have been visually masked  
+
+---
+
 ## Model Results
 
 ### Example 1 – 
