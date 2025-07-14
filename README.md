@@ -11,13 +11,17 @@ To build a forecasting system that predicts daily sales quantities for individua
 ## Key Features
 
 - Built using Python, Pandas, and XGBoost
+- Historical sales records covering multiple years
+- Preprocessing included:
+  - Cleansing nulls, filtering irrelevant entries
+  - Aggregating daily quantities by product
+  - Handling outliers (clipping top 5%)
 - Time series modeling per product (by `ProductCode`)
 - Feature engineering:
   - Lag features (`lag_1`, `lag_7`, `lag_30`)
   - Rolling means and standard deviations
   - Percent change and rolling diffs
   - Temporal signals (`month`, `dayofweek`, etc.)
-- Outlier clipping for sales spikes
 - Evaluation using RMSE, MAE, and R² metrics
 
 ---
