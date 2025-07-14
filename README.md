@@ -30,7 +30,7 @@ To build a forecasting system that predicts daily sales quantities for individua
 - **Test Set**  
   `RMSE: 12.22`, `MAE: 7.60`, `R²: 0.9786`
 
-![Forecast vs. Actual - Product B](images/Forecast%20vs.%20Actual%20for%20ProductCode%20B.png)
+![Forecast vs. Actual - Product B](/Forecast%20vs.%20Actual%20for%20ProductCode%20B.png)
 
 ---
 
@@ -40,7 +40,7 @@ To build a forecasting system that predicts daily sales quantities for individua
 - **Test Set**  
   `RMSE: 0.91`, `MAE: 0.36`, `R²: 0.9847`
 
-![Forecast vs. Actual - Product A](images/Forecast%20vs.%20Actual%20for%20ProductCode%20A.png)
+![Forecast vs. Actual - Product A](/Forecast%20vs.%20Actual%20for%20ProductCode%20A.png)
 
 
 ## Google Trends Integration
